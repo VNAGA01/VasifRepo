@@ -1,6 +1,6 @@
 **IBM-10/3/2017**
 
-**PROPOSAL**
+# **PROPOSAL**
 
 Plan to Streamline the Software Development process.
 
