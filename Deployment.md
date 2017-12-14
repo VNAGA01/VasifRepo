@@ -307,7 +307,7 @@ All apps are reviewed by Apple prior to inclusion.
 
 # V.TESTFLIGHT
 
-**Popularity: **If you’re into the Apple development world, you have
+**Popularity:**If you’re into the Apple development world, you have
 probably heard of TestFlight. TestFlight is an online service for
 over-the-air installation and testing of mobile applications, currently
 owned by Apple and only offered to developers within the iOS Developer
@@ -319,14 +319,14 @@ about the application to developers. The TestFlight SDK additionally
 allowed developers to receive remote logs, crash reports and tester
 feedback.
 
-**Platforms: **iOS, watchOS, and tvOS.
+**Platforms:**iOS, watchOS, and tvOS.
 
-**API & Integrations: **[Fastlane](https://fastlane.tools/), it integrates well 
+**API & Integrations:**[Fastlane](https://fastlane.tools/), it integrates well 
 when delivering your app to TestFlight’s beta testers.
 With a single command line, you’re able to get your app from development
 to your beta testers’ hands.
 
-**Ease of Use: **If you’re not using an automation tool like Fastlane in
+**Ease of Use:**If you’re not using an automation tool like Fastlane in
 order to automate your workspace, it’s still pretty straightforward to
 get your app into beta testing. The whole process is done through the
 iTunes Connect portal, and you can add either Internal or External
@@ -346,7 +346,7 @@ TestFlight’s advantage is that it doesn’t require the developer to
 handle the provisioning profiles for new devices manually, so that
 improves its ease of use considerably.
 
-**Setup** **Time & Effort: **The setup time is mostly creating the app
+**Setup Time & Effort:**The setup time is mostly creating the app
 in the iTunes Connect and submitting the app via Xcode, which could take
 up to a few minutes to get your app approved through Apple’s automated
 app revision system. You need to explicitly declare some information
@@ -375,7 +375,7 @@ a great tool, it was already one of the most popular (if not the most)
 on the market before Apple bought it, and it definitely became even more
 popular after its acquisition.
 
-**Pricing: **Apple’s official solution to beta distribution is
+**Pricing:**Apple’s official solution to beta distribution is
 completely free to use. 
 
 # VI.HOCKEY APP
@@ -387,17 +387,17 @@ right from the app, insights of how users are using the app,
 sophisticated team management features, and is well-suited for large
 companies that develop many different apps. 
 
-**Platforms: **It also supports a greater range of platforms, from
+**Platforms:**It also supports a greater range of platforms, from
 Android, iOS, macOS and Windows, to Cordova, React Native, Unity, and
 Xamarin. 
 
-**Ease of Use and Setup Time & Effort: **The setup is pretty much the
+**Ease of Use and Setup Time & Effort:**The setup is pretty much the
 same as Fabric, which I’ll be covering later on. There are numerous ways
 to add the HockeyApp SDK to your project, including CocoaPods, Carthage,
 and manually. Uploading a new build may be done via the web dashboard or
 via HockeyApp for Mac, and is really straightforward.
 
-**Integrations & APIs: **It features [a huge range of integrations and
+**Integrations & APIs:**It features [a huge range of integrations and
 bug
 trackers](https://support.hockeyapp.net/kb/third-party-bug-trackers-services-and-webhooks/supported-bug-trackers),
 and provide[ handy
@@ -413,7 +413,7 @@ also [webhooks](https://support.hockeyapp.net/kb/third-party-bug-trackers-servi
 Additionally, HockeyApp also supports various build servers & tools:
 Fastlane, Jenkins, Travis CI, and Visual Studio Team Services.
 
-**Pricing: **All this is available in a free tier for up to 2 apps, and
+**Pricing:**All this is available in a free tier for up to 2 apps, and
 the other plans can be found [here](https://www.hockeyapp.net/pricing/).
 For those looking to use more than 2 apps and wouldn’t like to pay more
 for it, HockeyKit open source might be an alternative.
