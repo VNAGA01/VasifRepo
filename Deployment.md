@@ -467,9 +467,6 @@ Support for bulk app licenses for employees.
     Programs](https://developer.apple.com/programs/start/ios/): iOS
     Developer Program ($99/year), iOS
 
-*   Developer Enterprise Program ($299/year), iOS Developer University
-    Program (Free)
-
 *   [Distributing Enterprise Apps for iOS
     Devices](https://developer.apple.com/library/ios/#featuredarticles/FA_Wireless_Enterprise_App_Distribution/Introduction/Introduction.html)
 
