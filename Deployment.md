@@ -18,7 +18,7 @@ VII. MAAS360 - Introduction
 
 VIII. Appendix
 
-# Summary
+# I.Summary
 
 This document gives reader a brief overview of options that are
 available to distribute iOS App for usage and testing.
@@ -28,7 +28,7 @@ and their use cases. This document will also introduce some trending
 distribution option widely used in industry for testing and Adhoc
 purposes.
 
-# Need
+# II.Need
 
 In today’s world of rapid App development, every client has a unique
 need of deployment and distribution. To better understand the client’s
@@ -45,11 +45,11 @@ options that are available to us in the Apple ecosystem.
 
   * Third party MDM solutions, MAAS 360.
 
-# Options - Overview
+# III.Options - Overview
 
 <img src="./media/image1.png" width="642" height="180" />
 
-## iTunes App Store.
+## 1.iTunes App Store.
 
 > The most preferable method to distribute an iOS App is through Apple’s
 > App store. The iTunes App Store allows you to price your application
@@ -70,7 +70,7 @@ options that are available to us in the Apple ecosystem.
 > either use enterprise or individual subscription to distribute their
 > App via Appstore
 
-## Apple Apps Store B2B Program
+## 2.Apple Apps Store B2B Program
 
 > In many ways similar to the traditional App Store, the B2B program
 > allows you to restrict your app to specific businesses who are also
@@ -90,7 +90,7 @@ options that are available to us in the Apple ecosystem.
 
 All apps are reviewed by Apple prior to inclusion.
 
-## Apple Enterprise Developer Program
+## 3.Apple Enterprise Developer Program
 
 > If you are creating an app for use inside your business, the
 > Enterprise Developer Program allows you to distribute that app to your
@@ -113,7 +113,7 @@ All apps are reviewed by Apple prior to inclusion.
 > number. A previous restriction that required applicants to have at
 > least 500 employees has been dropped.
 
-## Subscriptions 
+## 4.Subscriptions 
 
 > Many enterprise apps interact with a remote service to provide their
 > data. Those services are often billed to customers through an annual
@@ -130,7 +130,7 @@ All apps are reviewed by Apple prior to inclusion.
 > content, it’s a very good idea to review the updated App Store
 > guidelines to ensure you are compliant.
 
-# Options - Pros and Cons
+# IV.Options - Pros and Cons
 
 ## 1.The Public App Store
 
@@ -162,7 +162,7 @@ All apps are reviewed by Apple prior to inclusion.
 
  
 
-## iOS Developer Enterprise Program
+## 2.iOS Developer Enterprise Program
 
 > The iOS Enterprise Distribution program allows a company to distribute
 > their own “in-house” apps directly. It is intended for employees of
@@ -200,7 +200,7 @@ All apps are reviewed by Apple prior to inclusion.
   * The cost is $299 per year for the Enterprise Developer Account
     compared to $99 per year for the iOS Developer Account.
 
-## Custom B2B Apps Program
+## 3.Custom B2B Apps Program
 
 > Apple has programs for volume purchasing and custom B2B apps. These
 > programs operate from the online [Business
@@ -244,7 +244,7 @@ All apps are reviewed by Apple prior to inclusion.
 
  
 
-## Ad Hoc Distribution (intended for Testing)
+## 4.Ad Hoc Distribution (intended for Testing)
 
 > Ad Hoc Distribution allows you to distribute apps to up to 100 iOS
 > devices for testing. You must register these devices manually by their
@@ -282,9 +282,9 @@ All apps are reviewed by Apple prior to inclusion.
 
  
 
-## iOS Beta Testing Service: 
+## 5.iOS Beta Testing Service: 
 
-### TestFlight
+### A.TestFlight
 
 > TestFlight is a free over-the-air platform used to distribute beta and
 > internal iOS applications to team members. Developers can manage
@@ -305,7 +305,7 @@ All apps are reviewed by Apple prior to inclusion.
     [Apphance](http://www.apphance.com/): Deployment on iOS, Android,
     Windows Phone, Nook and Kindle.
 
-# TESTFLIGHT
+# V.TESTFLIGHT
 
 **Popularity: **If you’re into the Apple development world, you have
 probably heard of TestFlight. TestFlight is an online service for
@@ -378,7 +378,7 @@ popular after its acquisition.
 **Pricing: **Apple’s official solution to beta distribution is
 completely free to use. 
 
-# HOCKEY APP
+# VI.HOCKEY APP
 
 **Popularity and Misc Pros:** More complete than TestFlight, and
 definitely among the most popular beta distribution services out there,
@@ -418,7 +418,7 @@ the other plans can be found [here](https://www.hockeyapp.net/pricing/).
 For those looking to use more than 2 apps and wouldn’t like to pay more
 for it, HockeyKit open source might be an alternative.
 
-# MAAS360 - Introduction
+# VII.MAAS360 - Introduction
 
 MaaS360 Mobile Application Management simplifes mobile application
 management by delivering an easy-to- use enterprise app catalog with
