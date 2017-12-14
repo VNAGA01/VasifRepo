@@ -314,7 +314,7 @@ over-the-air installation and testing of mobile applications, currently
 owned by Apple and only offered to developers within the iOS Developer
 Program.
 
-Developers signed up with the service to distribute applications to
+>Developers signed up with the service to distribute applications to
 internal or external beta testers, who could subsequently send feedback
 about the application to developers. The TestFlight SDK additionally
 allowed developers to receive remote logs, crash reports and tester
@@ -341,12 +341,12 @@ sent to internal testers are the fastest since they don’t require a Beta
 App Review nor comply with the App Store Review Guidelines, like the
 distribution sent to external testers. 
 
-On the other hand, to invite external testers, who is anyone that’s not
+>On the other hand, to invite external testers, who is anyone that’s not
 in your development team, you only need their email address and they’re
 good to go once they’ve accepted the invitation. Only TestFlight has
 this Internal and External Tester concept.
 
-TestFlight’s advantage is that it doesn’t require the developer to
+>TestFlight’s advantage is that it doesn’t require the developer to
 handle the provisioning profiles for new devices manually, so that
 improves its ease of use considerably.
 
@@ -366,7 +366,7 @@ app distributions. Another great feature is that you can assign notes
 and details to the app being distributed so the testers can see what
 needs to be tested.
 
-Basic information about crashes and sessions are stored in TestFlight
+>Basic information about crashes and sessions are stored in TestFlight
 Data so the developers may track what’s going on with each of the
 versions that are being tested. Extra feedback may be sent to the
 developers via email (within TestFlight app) alongside a log with
@@ -383,13 +383,13 @@ on the market before Apple bought it, and it definitely became even more
 popular after its acquisition.
 
 **Pricing:** 
-Apple’s official solution to beta distribution is
+>Apple’s official solution to beta distribution is
 completely free to use. 
 
 # VI.HOCKEY APP
 
 **Popularity and Misc Pros:** 
-More complete than TestFlight, and
+>More complete than TestFlight, and
 definitely among the most popular beta distribution services out there,
 Microsoft’s solution to beta distributions also offers user feedback
 right from the app, insights of how users are using the app,
@@ -397,19 +397,19 @@ sophisticated team management features, and is well-suited for large
 companies that develop many different apps. 
 
 **Platforms:** 
-It also supports a greater range of platforms, from
+>It also supports a greater range of platforms, from
 Android, iOS, macOS and Windows, to Cordova, React Native, Unity, and
 Xamarin. 
 
 **Ease of Use and Setup Time & Effort:** 
-The setup is pretty much the
+>The setup is pretty much the
 same as Fabric, which I’ll be covering later on. There are numerous ways
 to add the HockeyApp SDK to your project, including CocoaPods, Carthage,
 and manually. Uploading a new build may be done via the web dashboard or
 via HockeyApp for Mac, and is really straightforward.
 
 **Integrations & APIs:** 
-It features [a huge range of integrations and
+>It features [a huge range of integrations and
 bug
 trackers](https://support.hockeyapp.net/kb/third-party-bug-trackers-services-and-webhooks/supported-bug-trackers),
 and provide[ handy
@@ -426,7 +426,7 @@ Additionally, HockeyApp also supports various build servers & tools:
 Fastlane, Jenkins, Travis CI, and Visual Studio Team Services.
 
 **Pricing:** 
-All this is available in a free tier for up to 2 apps, and
+>All this is available in a free tier for up to 2 apps, and
 the other plans can be found [here](https://www.hockeyapp.net/pricing/).
 For those looking to use more than 2 apps and wouldn’t like to pay more
 for it, HockeyKit open source might be an alternative.
