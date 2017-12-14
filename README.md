@@ -400,8 +400,10 @@ traits; utilized to improve conversion rates.
  
   **Phase One**
   >Collaborate and identify problem areas across studios in detail.
+  
   **Phase Two**     
   >Gather information on approaches and tools used to solve problem in past.
+  
   **Phase Three**   
   >Plan to create a local end to end implementation.
                                                                                                 
