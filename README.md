@@ -451,5 +451,3 @@ Provide supporting material for your proposal here. It may be:
     <https://w3-connections.ibm.com/wikis/home?lang=en-us#!/wiki/Wc3aab0793d4f_4381_b44d_c96facd32ab9/page/Welcome%20to%20MobileFirst%20iOS%20Accelerators>
 
     <https://blog.netapp.com/blogs/containers-vs-vms/>
-    
-     MobileFirst iOS Accelerators (Used by Apple+IBM teams in Atlanta)
