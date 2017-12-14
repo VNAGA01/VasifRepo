@@ -129,6 +129,8 @@ limited to;**
 
     * All studio should follow a blueprint of this pipeline having trial
     and tested tools as the standards.
+    
+    ![Image1](./media/1.png)
 
 6.  Need for Automated Continuous integration & Testing to be integral
     part of our software development efforts.
@@ -203,10 +205,10 @@ work in standardized environments using local containers which provide
 your applications and services. Containers are great for continuous
 integration and continuous development (CI/CD) workflows.
 
-Virtual Machines VS Containers (reference)
+![Image1](./media/2.png)
 
 
-**Lifecycle of container -- image**
+![Image1](./media/3.png)
 
 ## 4.Dev Ops - Delivery Pipeline Automation
 
@@ -232,8 +234,10 @@ We all know what a typical delivery pipeline looks like, just to
 highlight some of the stages with the tools often used here is high
 level picture:
 
+![Image1](./media/4.png)
+
 **[Every Project should have following as their standard
-implementation:]{.underline}**
+implementation:]**
 
 ### A.Source Code Control (Management)
 
