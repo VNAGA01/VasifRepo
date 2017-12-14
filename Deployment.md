@@ -321,8 +321,8 @@ feedback.
 
 **Platforms: **iOS, watchOS, and tvOS.
 
-**API & Integrations: **[Fastlane](https://fastlane.tools/), will be
-your best friend when delivering your app to TestFlight’s beta testers.
+**API & Integrations: **[Fastlane](https://fastlane.tools/), it integrates well 
+when delivering your app to TestFlight’s beta testers.
 With a single command line, you’re able to get your app from development
 to your beta testers’ hands.
 
