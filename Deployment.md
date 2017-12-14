@@ -308,7 +308,7 @@ All apps are reviewed by Apple prior to inclusion.
 # V.TESTFLIGHT
 
 **Popularity:** 
-If you’re into the Apple development world, you have
+>If you’re into the Apple development world, you have
 probably heard of TestFlight. TestFlight is an online service for
 over-the-air installation and testing of mobile applications, currently
 owned by Apple and only offered to developers within the iOS Developer
@@ -321,16 +321,16 @@ allowed developers to receive remote logs, crash reports and tester
 feedback.
 
 **Platforms:** 
-iOS, watchOS, and tvOS.
+>iOS, watchOS, and tvOS.
 
 **API & Integrations:** 
-[Fastlane](https://fastlane.tools/), it integrates well 
+>[Fastlane](https://fastlane.tools/), it integrates well 
 when delivering your app to TestFlight’s beta testers.
 With a single command line, you’re able to get your app from development
 to your beta testers’ hands.
 
 **Ease of Use:** 
-If you’re not using an automation tool like Fastlane in
+>If you’re not using an automation tool like Fastlane in
 order to automate your workspace, it’s still pretty straightforward to
 get your app into beta testing. The whole process is done through the
 iTunes Connect portal, and you can add either Internal or External
@@ -351,7 +351,7 @@ handle the provisioning profiles for new devices manually, so that
 improves its ease of use considerably.
 
 **Setup Time & Effort:** 
-The setup time is mostly creating the app
+>The setup time is mostly creating the app
 in the iTunes Connect and submitting the app via Xcode, which could take
 up to a few minutes to get your app approved through Apple’s automated
 app revision system. You need to explicitly declare some information
@@ -360,7 +360,7 @@ needs to be tested, so that might take a little longer than if it didn’t
 require that info.
 
 **Misc Pros:** 
-Every tester needs to download Apple’s official
+>Every tester needs to download Apple’s official
 TestFlight app in the App Store in order to be able to download and test
 app distributions. Another great feature is that you can assign notes
 and details to the app being distributed so the testers can see what
@@ -373,7 +373,7 @@ developers via email (within TestFlight app) alongside a log with
 information of the current device.
 
 **Misc Cons:** 
-What bothers the developers the most is the Beta App
+>What bothers the developers the most is the Beta App
 Review that is required in order to invite external testers (most times
 the most important testers are outside of our development team). So
 that, and the fact that it doesn’t support non-Apple platforms, are the
