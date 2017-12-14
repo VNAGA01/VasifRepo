@@ -1,6 +1,6 @@
 **IBM 12/10/2017**
 
-***iOS App Distribution***
+# ***iOS App Distribution***
 
 I. Summary
 
