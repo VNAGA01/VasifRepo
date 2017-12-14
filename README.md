@@ -371,7 +371,7 @@ features are currently 
 
 #### C.Personality Insights
 
-Watson Personality Insights: Personality Insights derives insights
+>Watson Personality Insights: Personality Insights derives insights
 from transactional and social media data to identify psychological
 traits which determine purchase decisions, intent and behavioral
 traits; utilized to improve conversion rates.
@@ -399,11 +399,11 @@ traits; utilized to improve conversion rates.
 >Break the project into phases, and provide a schedule for each phase.
  
   **Phase One**
-  Collaborate and identify problem areas across studios in detail.
+  >Collaborate and identify problem areas across studios in detail.
   **Phase Two**     
-  Gather information on approaches and tools used to solve problem in past.
+  >Gather information on approaches and tools used to solve problem in past.
   **Phase Three**   
-  Plan to create a local end to end implementation.
+  >Plan to create a local end to end implementation.
                                                                                                 
 
 # VI.Exercise
