@@ -457,30 +457,30 @@ Support for bulk app licenses for employees.
 
 # Appendix
 
--   Apple Developer Site
+*   Apple Developer Site
 
     <https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/TestingYouriOSApp/TestingYouriOSApp.html>
 
     <https://developer.apple.com/programs/>
 
--   [Comparison of iOS Developer
+*   [Comparison of iOS Developer
     Programs](https://developer.apple.com/programs/start/ios/): iOS
     Developer Program ($99/year), iOS
 
--   Developer Enterprise Program ($299/year), iOS Developer University
+*   Developer Enterprise Program ($299/year), iOS Developer University
     Program (Free)
 
--   [Distributing Enterprise Apps for iOS
+*   [Distributing Enterprise Apps for iOS
     Devices](https://developer.apple.com/library/ios/#featuredarticles/FA_Wireless_Enterprise_App_Distribution/Introduction/Introduction.html)
 
--   [Create Custom B2B Apps for Sale to Your Customers Enrolled in the
+*   [Create Custom B2B Apps for Sale to Your Customers Enrolled in the
     Volume Purchase Program](http://www.apple.com/business/vpp/)
 
--   [Business Store](https://vpp.itunes.apple.com/us/store)
+*   [Business Store](https://vpp.itunes.apple.com/us/store)
 
--   [TestFlight](https://testflightapp.com/)
+*   [TestFlight](https://testflightapp.com/)
 
--   [Building and Distributing Custom B2B Apps for
+*   [Building and Distributing Custom B2B Apps for
     iOS](https://developer.apple.com/videos/wwdc/2012/) WWDC 2012 Video
     (requires Apple Developer account)
 
