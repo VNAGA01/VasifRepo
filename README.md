@@ -194,6 +194,8 @@ allocation benefits, but function differently because containers
 virtualize the operating system instead of hardware, containers are
 more portable and efficient.
 
+![Image1](./media/2.png)
+
 The use of Virtual Machines or Containers will help eliminate the
 latency to bring up and setup the environment needed for fast
 development and release. Images can be used to store the snapshot of a
@@ -204,9 +206,6 @@ Docker streamlines the development lifecycle by allowing developers to
 work in standardized environments using local containers which provide
 your applications and services. Containers are great for continuous
 integration and continuous development (CI/CD) workflows.
-
-![Image1](./media/2.png)
-
 
 ![Image1](./media/3.png)
 
